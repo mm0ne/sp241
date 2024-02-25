@@ -11,3 +11,7 @@ ZCZC W01 150 L11 Assignment #01
 ZCZC W01 50 L24 Scripting in general.
 ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 300 L12 Assignment #02
+ZCZC W02 30 L24 Scripting in general.
+ZCZC W02 40 L01 SCELE/Discord related
+ZCZC W02 35 L21 Trying something
