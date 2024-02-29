@@ -15,3 +15,7 @@ ZCZC W02 300 L12 Assignment #02
 ZCZC W02 30 L24 Scripting in general.
 ZCZC W02 40 L01 SCELE/Discord related
 ZCZC W02 35 L21 Trying something
+ZCZC W01 120 L13 Assignment #03
+ZCZC W01 60 L24 Scripting in general.
+ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 30 L01 SCELE/Discord related
