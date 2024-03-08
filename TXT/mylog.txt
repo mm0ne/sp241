@@ -19,3 +19,7 @@ ZCZC W03 120 L13 Assignment #03
 ZCZC W03 60 L24 Scripting in general.
 ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W04 150 L14 Assignment #04
+ZCZC W04 50 L24 Scripting in general.
+ZCZC W04 50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt.
